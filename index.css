@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: Arial;
+}
+
+.css-move-icon{
+  height: 50px;
+}
+
+.css-move-button{
+  background-color: transparent;
+  border: 3px solid white;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+
+.css-result {
+  margin-top: 50px;
+}
+
+.css-result-icon {
+  height: 60px;
+}
+
+.css-reset {
+  height: 40px;
+  width: 100px;
+}
